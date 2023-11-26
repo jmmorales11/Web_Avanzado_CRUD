@@ -1,0 +1,49 @@
+﻿@model List<ESTUDIANTECRUD.Models.Estudiante>
+@{
+    ViewData["Title"] = "Inicio";
+}
+
+<div class="text-center">
+    <h1 class="display-4">
+        Desarrollo de Aplicaciones Web con
+        ASP.NET Core.
+    </h1>
+    <p>Nombre:Jeimy Marley Morales Sosa</p>
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h2>Lista de estudiantes</h2>
+    </div>
+    <div class="card-body">
+        <a class="btn btn-success btn-sm" asp-action="Estudiante_Detalle" asp-controller="Home" asp-route-idestudiante="0">
+            Crear Nuevo
+        </a>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                    <th>Cedula</th>
+                    <th>Materia</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in Model)
+                {
+                    <tr>
+                        <td>  @item.NombreEstudiante  </td>
+                        <td>  @item.Apellido  </td>
+                        <td>  @item.CedulaEstudiante  </td>
+                        <td>  @item.IdMateria  </td>
+                        <td>
+                            <a class="btn btn-primary btn-sm" asp-action="Estudiante_Detalle" asp-controller="Home" asp-route-idestudiante="@item.IdEstudiante">Editar</a>
+                            <a class="btn btn-danger btn-sm" asp-action="Eliminar" asp-controller="Home" asp-route-idestudiante="@item.IdEstudiante">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

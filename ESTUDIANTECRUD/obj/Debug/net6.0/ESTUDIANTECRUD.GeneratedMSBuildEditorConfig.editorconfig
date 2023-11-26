@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ESTUDIANTECRUD
+build_property.RootNamespace = ESTUDIANTECRUD
+build_property.ProjectDir = C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\WEb_Avanzado\PrimerParcial\ESTUDIANTECRUD\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Jeimy\OneDrive\Documentos\Quinto_Semestre\WEb_Avanzado\PrimerParcial\ESTUDIANTECRUD
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Jeimy/OneDrive/Documentos/Quinto_Semestre/WEb_Avanzado/PrimerParcial/ESTUDIANTECRUD/Views/Home/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbGltaW5hci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeimy/OneDrive/Documentos/Quinto_Semestre/WEb_Avanzado/PrimerParcial/ESTUDIANTECRUD/Views/Home/Estudiante_Detalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFc3R1ZGlhbnRlX0RldGFsbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeimy/OneDrive/Documentos/Quinto_Semestre/WEb_Avanzado/PrimerParcial/ESTUDIANTECRUD/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeimy/OneDrive/Documentos/Quinto_Semestre/WEb_Avanzado/PrimerParcial/ESTUDIANTECRUD/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeimy/OneDrive/Documentos/Quinto_Semestre/WEb_Avanzado/PrimerParcial/ESTUDIANTECRUD/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeimy/OneDrive/Documentos/Quinto_Semestre/WEb_Avanzado/PrimerParcial/ESTUDIANTECRUD/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeimy/OneDrive/Documentos/Quinto_Semestre/WEb_Avanzado/PrimerParcial/ESTUDIANTECRUD/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeimy/OneDrive/Documentos/Quinto_Semestre/WEb_Avanzado/PrimerParcial/ESTUDIANTECRUD/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Jeimy/OneDrive/Documentos/Quinto_Semestre/WEb_Avanzado/PrimerParcial/ESTUDIANTECRUD/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ii1he49bdn
