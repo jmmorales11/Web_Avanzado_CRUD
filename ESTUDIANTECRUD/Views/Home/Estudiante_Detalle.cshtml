@@ -12,7 +12,7 @@ else
 {
     <h2>Editar Empleado</h2>
 }
-
+<!-- Es la vista para insertar estudiantes en la base de datos. -->
 <div >
     <div class="center col-sm-4">
         <form asp-action="Estudiante_Detalle" asp-controller="Home" method="post">
@@ -30,12 +30,13 @@ else
                 <input class="form-control form-control-sm" asp-for="oEstudiante.CedulaEstudiante" type="text" />
             </div>
             <div class="mb-2">
+                <!-- Se muestran todos los datos de la tabla materias para ser asignada a los estudiantes. -->
                 <label class="form-label" asp-for="oEstudiante.IdMateria">Materia</label>
                 <select class="form-select form-select-sm" asp-for="oEstudiante.IdMateria" asp-items="@Model.oListaMateria">
                     <option selected disabled>--Selecionar--</option>
                 </select>
             </div>
-
+            <!-- Realiza condiciones para mostrar los botones, ya sea el de crear o actualizar ya que se utiliza la misma vista. -->
             <div class="mb-2">
                 @if (Model.oEstudiante.IdEstudiante == 0)
                 {

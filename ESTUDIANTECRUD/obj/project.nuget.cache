@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kowz12tU4N9E7WVBMPmYV9yGfzKlhwSbdopjUDjCgr4xqnU2hUTWvLNItFUw6I6YYvRyAvQhel7ALX1TX6GYRw==",
+  "dgSpecHash": "3x90aE8QpeGWHzuhWaLyhRNfeIoj61PVjw9OMgxpqjvZ21ddVQTF0hVRcL0+JFmelO8ANuo8DLKSrj8zpKaalQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\WEb_Avanzado\\PrimerParcial\\ESTUDIANTECRUD\\ESTUDIANTECRUD.csproj",
+  "projectFilePath": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Repositorio\\Web_Avanzado_CRUD\\ESTUDIANTECRUD\\ESTUDIANTECRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jeimy\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Jeimy\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

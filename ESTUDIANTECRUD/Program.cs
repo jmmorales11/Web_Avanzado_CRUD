@@ -7,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<DBINSTITUCIONContext>(options =>
+//Configuramos la conexion con la cadenaSQL la cual cntiene los datos para la conexion y esta en el archivo appsettings.json
     options.UseSqlServer(builder.Configuration.GetConnectionString("cadenaSQL"))
 );
 

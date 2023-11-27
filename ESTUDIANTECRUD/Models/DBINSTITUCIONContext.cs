@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
+//Clase creada por la conexion con la base de datos 
 namespace ESTUDIANTECRUD.Models
+
 {
+
     public partial class DBINSTITUCIONContext : DbContext
     {
         public DBINSTITUCIONContext()
@@ -25,6 +28,7 @@ namespace ESTUDIANTECRUD.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            
             modelBuilder.Entity<Estudiante>(entity =>
             {
                 entity.HasKey(e => e.IdEstudiante)

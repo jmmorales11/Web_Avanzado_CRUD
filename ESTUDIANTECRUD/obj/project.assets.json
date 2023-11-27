@@ -10692,11 +10692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\WEb_Avanzado\\PrimerParcial\\ESTUDIANTECRUD\\ESTUDIANTECRUD.csproj",
+      "projectUniqueName": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Repositorio\\Web_Avanzado_CRUD\\ESTUDIANTECRUD\\ESTUDIANTECRUD.csproj",
       "projectName": "ESTUDIANTECRUD",
-      "projectPath": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\WEb_Avanzado\\PrimerParcial\\ESTUDIANTECRUD\\ESTUDIANTECRUD.csproj",
+      "projectPath": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Repositorio\\Web_Avanzado_CRUD\\ESTUDIANTECRUD\\ESTUDIANTECRUD.csproj",
       "packagesPath": "C:\\Users\\Jeimy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\WEb_Avanzado\\PrimerParcial\\ESTUDIANTECRUD\\obj\\",
+      "outputPath": "C:\\Users\\Jeimy\\OneDrive\\Documentos\\Quinto_Semestre\\Repositorio\\Web_Avanzado_CRUD\\ESTUDIANTECRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

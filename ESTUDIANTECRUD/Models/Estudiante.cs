@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace ESTUDIANTECRUD.Models
 {
+    //Clase estudiante para manipular los datos de la base 
     public partial class Estudiante
     {
         public int IdEstudiante { get; set; }
